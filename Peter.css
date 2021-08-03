@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient(to right , #9c27b0 ,#8ecdff);
+}
+#pto{
+    width: 400px;
+    height: 300px;
+    
+}
+#form{
+    text-align: center;
+    border-style: dashed;
+}
+#h{
+    font-style: italic;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#lol{
+    width: 400px;
+    height: 300px;
+}
+#p{
+    font-style: normal;
+    font-size: 40px;
+}
+#po{
+    width: 250px;
+    height: 250px;
+}
+#io{
+    font-style: normal;
+    font-size: 40px;
+    color: black;
+}
+#oop{
+    border: 3px dashed red;
+    text-align: center;
+}
+}
+#table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+td, th {
+    border: 2.5px dashed red;
+    text-align: left;
+    padding: 8px;
+  }
+  }
